@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/client-dotnetapi/static/css/main.da8f2d55.chunk.css",
+    "main.js": "/client-dotnetapi/static/js/main.ff2ccb76.chunk.js",
+    "main.js.map": "/client-dotnetapi/static/js/main.ff2ccb76.chunk.js.map",
+    "runtime-main.js": "/client-dotnetapi/static/js/runtime-main.e6c8c854.js",
+    "runtime-main.js.map": "/client-dotnetapi/static/js/runtime-main.e6c8c854.js.map",
+    "static/js/2.e611d793.chunk.js": "/client-dotnetapi/static/js/2.e611d793.chunk.js",
+    "static/js/2.e611d793.chunk.js.map": "/client-dotnetapi/static/js/2.e611d793.chunk.js.map",
+    "static/js/3.45a0bc43.chunk.js": "/client-dotnetapi/static/js/3.45a0bc43.chunk.js",
+    "static/js/3.45a0bc43.chunk.js.map": "/client-dotnetapi/static/js/3.45a0bc43.chunk.js.map",
+    "index.html": "/client-dotnetapi/index.html",
+    "static/css/main.da8f2d55.chunk.css.map": "/client-dotnetapi/static/css/main.da8f2d55.chunk.css.map",
+    "static/js/2.e611d793.chunk.js.LICENSE.txt": "/client-dotnetapi/static/js/2.e611d793.chunk.js.LICENSE.txt",
+    "static/media/React-icon.3adc4d15.svg": "/client-dotnetapi/static/media/React-icon.3adc4d15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c8c854.js",
+    "static/js/2.e611d793.chunk.js",
+    "static/css/main.da8f2d55.chunk.css",
+    "static/js/main.ff2ccb76.chunk.js"
+  ]
+}
