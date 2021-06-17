@@ -7,7 +7,9 @@ import { Link } from 'react-router-dom';
 
 const navigation = [
   { name: 'Something', to: '/' },
-  { name: 'Another', to: '/' },
+  { name: 'Categories', to: '/Categories' },
+  { name: 'Business', to: '/Categories' },
+  
 
 ]
 
@@ -131,6 +133,7 @@ export default function Hero() {
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
+                  {/* 
                   <Link
                     to="/"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700 md:py-4 md:text-lg md:px-10"
@@ -145,6 +148,7 @@ export default function Hero() {
                   >
                     button
                   </Link>
+                  */}
                 </div>
               </div>
             </div>

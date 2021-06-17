@@ -3,6 +3,7 @@ import  App  from './App.js';
 import Hero from "./Components/Hero";
 import SignIn from "./SignIn";
 import { Route, Switch, Redirect } from 'react-router-dom';
+import { PostRequestHooks } from './PostRequestHooks.js';
 
 export const Routes = () => {
   return (
@@ -14,6 +15,7 @@ export const Routes = () => {
           <Redirect to="/Home" />
         </Route>
         <Route exact path="/SignIn" component={SignIn} />
+        <Route exact path="/Categories" component={PostRequestHooks} />
       </Switch>
     </div>
   );
